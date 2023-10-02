@@ -1,12 +1,9 @@
-## Bem-vindo(a) ao perfil do Chaler 😁
+## Bem-vindo(a) ao perfil do Charle Santana 😁
 
  <div>
-   <a href="https://github.com/BreadcrumbsCHARLLEXXXX077
-">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BreadcrumbsCHARLLEXXXX077
-&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreadcrumbsCHARLLEXXXX077
-&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/devemdobro">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -21,4 +18,6 @@
  
 <div> 
   <a href="https://instagram.com/charles_santana077" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ target="_blank"></a>
 </div>
